@@ -1,0 +1,11 @@
+{
+  "regionalApiUrl": "https://gra.training.ai.cloud.ovh.net/v1",
+  "regionalTokenUrl": "https://gra.training.ai.cloud.ovh.net/v1/oauth/token",
+
+  "clientSecret": "change_me",
+  "clientId": "change_me",
+
+  "userOpenStack": "change_me",
+  "passwordOpenStack": "change_me"
+}
+
